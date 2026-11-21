@@ -25,11 +25,10 @@ I'm building practical projects to develop my analytical and problem-solving ski
 My projects will be added here as I complete them.
 
 | Project | Tools | Status |
-
-| Sales Data Analysis | Excel | In Progress |
-| Customer Analysis | SQL | Planned |
-| E-commerce Data Analysis | Python | Planned |
-| Business Dashboard | Power BI | Planned |
+Sales Data Analysis | Excel | In Progress 
+Customer Analysis | SQL | Planned |
+E-commerce Data Analysis | Python | Planned |
+Business Dashboard | Power BI | Planned |
 
 ## My Goal
 
